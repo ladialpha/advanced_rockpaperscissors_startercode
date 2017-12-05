@@ -19,7 +19,10 @@
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
 
 //GLOBAL VARIABLES
-
+var userChoice = "";
+var computerChoice = "";
+var winnner = "";
+var choices = ["rock", "paper", "scissors"];
 
 
 //FUNCTIONS
@@ -27,4 +30,5 @@
 
 
 // DOCUMENT READY FUNCTION
+
 
